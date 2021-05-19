@@ -29,3 +29,7 @@ func maxArea(height []int) int {
 func main()  {
 	fmt.Println(maxArea([]int{1,8,6,2,5,4,8,3,7}))
 }
+
+//Time complexity: O(n)
+//Runtime: 88 ms
+//Memory: 7.5 MB
